@@ -78,3 +78,4 @@ while (executando) {
                 console.log("Aluno não cadastrado!");
             }
     }
+}
